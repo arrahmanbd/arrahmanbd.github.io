@@ -38162,7 +38162,7 @@ A.T3.prototype={
 $1(a){return new A.hW(a,null)},
 $S:61}
 A.T4.prototype={
-$0(){return B.bU.oI(window,"assets/cv/cv.pdf","pdf")},
+$0(){return B.bU.oI(window,"assets/assets/cv/cv.pdf","pdf")},
 $S:0}
 A.T5.prototype={
 $1(a){return A.XI(new A.jy(a.gm(a),B.hd[a.gbF(a)],B.ha[a.gbF(a)],null),1)},
@@ -38199,7 +38199,7 @@ A.T6.prototype={
 $1(a){return new A.hW(a,null)},
 $S:61}
 A.T7.prototype={
-$0(){B.bU.oI(window,"assets/cv/cv.pdf","pdf")},
+$0(){B.bU.oI(window,"assets/assets/cv/cv.pdf","pdf")},
 $S:0}
 A.T8.prototype={
 $1(a){return new A.jy(a.gm(a),B.hd[a.gbF(a)],B.ha[a.gbF(a)],null)},
@@ -38245,7 +38245,7 @@ A.T9.prototype={
 $1(a){return new A.hW(a,null)},
 $S:61}
 A.Ta.prototype={
-$0(){return B.bU.oI(window,"assets/cv/cv.pdf","pdf")},
+$0(){return B.bU.oI(window,"assets/assets/cv/cv.pdf","pdf")},
 $S:0}
 A.Tb.prototype={
 $1(a){return new A.jy(a.gm(a),B.hd[a.gbF(a)],B.ha[a.gbF(a)],null)},
@@ -38421,7 +38421,7 @@ this.a.a.fe($.bj*q*0.77+q,B.cF,B.aK)
 A.qE(this.c,!1).A6(null)},
 $S:0}
 A.ac6.prototype={
-$0(){return A.jq(A.eG("assets/cv/cv.pdf",0,null))},
+$0(){return A.jq(A.eG("assets/assets/cv/cv.pdf",0,null))},
 $S:0}
 A.O2.prototype={
 E(a){var s,r,q,p=null,o=A.eD(a,!0,t.T),n=A.yV(0.5,p),m=o.a===B.ag?B.k:B.i,l=$.ait
@@ -38447,7 +38447,7 @@ A.acn.prototype={
 $1(a){return new A.qD(a.gm(a),a.gbF(a),null)},
 $S:387}
 A.aco.prototype={
-$0(){B.bU.oI(window,"assets/cv/cv.pdf","pdf")},
+$0(){B.bU.oI(window,"assets/assets/cv/cv.pdf","pdf")},
 $S:0}
 A.acp.prototype={
 $1(a){var s=!a?B.ct:B.ag
@@ -38652,7 +38652,7 @@ A.Hy.prototype={
 E(a){var s=$.aqQ()
 $.akv().toString
 s.$1(null)
-return A.cN(A.a([new A.bD(B.E4,A.eA("/logo.png",null),null)],t.p),B.eq,B.aP)}}
+return A.cN(A.a([new A.bD(B.E4,A.eA("assets/logo.png",null),null)],t.p),B.eq,B.aP)}}
 A.ly.prototype={
 ag(){return new A.IG(B.j)}}
 A.IG.prototype={
